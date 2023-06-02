@@ -1,0 +1,50 @@
+
+.body{
+    background-color:#EDF0F5 ;
+    
+}
+.facebook-content{
+    padding: 20px;
+    margin-top: 10%;
+    padding-top:30px
+}
+.fb-heading{
+    color: #1876f7;
+    font-size: 70px;
+}
+.fb-content-para{
+    columns: #000000;
+    font-size: 35px;
+}
+.form-content{
+    width: 100%;
+    border:0px solid #ffffff;
+    margin-top: 25%;
+    padding: 20px;
+    border-radius:15px;
+-webkit-box-shadow: 2px 2px 15px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 2px 15px -3px rgba(0,0,0,0.75);
+box-shadow: 2px 2px 15px -3px rgba(0,0,0,0.75);
+
+}
+.fb-form-down{
+    text-align: center;
+    padding: 10px;
+    font-size:15px
+}
+.login{
+    width: 100%;
+    padding: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(45, 82, 230);
+    border-radius:5px;
+    border-width: 0px;
+}
+.button-text{
+    font-weight: bold;
+    color: white;
+    background-color: #10b647	;
+    border-radius:5px;
+    border-width: 0px;
+}
